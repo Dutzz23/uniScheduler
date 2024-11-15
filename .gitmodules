@@ -1,0 +1,6 @@
+[submodule "uni_scheduler_api"]
+	path = uni_scheduler_api
+	url = https://github.com/Dutzz23/uni_scheduler_api.git
+[submodule "uni_scheduler_app"]
+	path = uni_scheduler_app
+	url = https://github.com/Dutzz23/uni_scheduler_app.git
